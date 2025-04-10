@@ -34,7 +34,7 @@
 ## ⏳ 最近状态
 
 <!-- GitHub 活跃状态图 -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=你的GitHub用户名&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Boer2333&theme=radical)
 
 ---
 
