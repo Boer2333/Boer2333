@@ -11,6 +11,7 @@
 
 ### 🧩 工具类
 - 🔧 [BBOT 提币脚本](https://github.com/Boer2333/Bbot-tibi)
+- 🔧 [BBOT 分发脚本](https://github.com/Boer2333/dispear)
 
 ### 🖼 项目
 - 📂 [Kite AI](https://github.com/Boer2333/kite_AI)
