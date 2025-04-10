@@ -15,7 +15,7 @@
 
 ### 🖼 项目
 - 📂 [Kite AI](https://github.com/Boer2333/kite_AI)
-- 📂 [mindnetwork](https://github.com/Boer2333/mindnetwork) 只剩查询了
+- 📂 [mindnetwork](https://github.com/Boer2333/mindnetwork) 查询，领取
 - 📂 [initia](https://github.com/Boer2333/initia) 只剩查询了
 
 
