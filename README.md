@@ -1,16 +1,16 @@
-## Hi there 👋
+# 🧑‍💻 Web3 大男孩
 
-<!--
-**Boer2333/Boer2333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 自学 Python & JavaScript，一路深耕撸毛路上不回头  
+🛠️ 分享自写代码 & 工具，正在学习构建前端框架  
+🌱 专注学习，持续进化
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 如果对你有帮助，给个仨瓜俩枣不嫌少 🍐🍑🍎🍌
+
+### 🧾 打赏 / 要饭地址
+0x354d44ad5ecbe2b6244a63b24babff9aa5200303
+
+---
+
+📬 欢迎交流，咱们 Web3 路上见！
