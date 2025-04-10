@@ -6,7 +6,20 @@
 
 ---
 
-**🚨 脚本使用先配置基础架构，详情看置顶 BBOT！**
+### 🧪 前置准备
+- 📘 [指南](https://github.com/Boer2333/Bbot)
+
+### 🧩 工具类
+- 🔧 [BBOT 提币脚本](https://github.com/Boer2333/Bbot-tibi)
+
+### 🖼 项目
+- 📂 [Kite AI](https://github.com/Boer2333/kite_AI)
+- 
+
+
+代码仅作开发测试，安全性自己找GPT审核。
+
+不可用于盈利，请注明出处。
 
 💡 如果对你有帮助，给个仨瓜俩枣不嫌少 🍐🍑🍎🍌
 
