@@ -28,7 +28,6 @@
 ### 🧾 打赏 / 要饭地址
 0x354d44ad5ecbe2b6244a63b24babff9aa5200303
 
-好用的U卡申请：https://app.infini.money/signup?ref=H98R2VD
 
 ---
 
