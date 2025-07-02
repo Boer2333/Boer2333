@@ -14,9 +14,9 @@
 - 🔧 [BBOT 分发脚本](https://github.com/Boer2333/dispear)
 
 ### 🖼 项目
-- 📂 [Kite AI](https://github.com/Boer2333/kite_AI)
-- 📂 [mindnetwork](https://github.com/Boer2333/mindnetwork) 查询，领取
-- 📂 [initia](https://github.com/Boer2333/initia) 只剩查询了
+- 📂 [Kite AI](https://github.com/Boer2333/kite_AI)（未更新）
+- 📂 [mindnetwork](https://github.com/Boer2333/mindnetwork) （结束）
+- 📂 [initia](https://github.com/Boer2333/initia) （结束）
 
 
 代码仅作开发测试，安全性自己找GPT审核。
